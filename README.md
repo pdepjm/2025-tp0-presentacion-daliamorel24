@@ -11,7 +11,8 @@
 <p> 
   **Foto:**
 </p>
-![FOTO SSOO](https://github.com/user-attachments/assets/e94221f7-9e48-4c9a-a652-1d65881c2f27)
+![FOTO SSOO](https://github.com/user-attachments/assets/5f414abb-f23a-406a-80f3-d5cd5d5b2fe2)
+
 <p>
   **Algo que me parece importante del mundo:** LAS MALVINAS SON ARGENTINAS
 </p>
